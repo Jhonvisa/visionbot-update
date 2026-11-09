@@ -1,19 +1,19 @@
 {
   "built": "2026-11-09 20:41:08",
   "code": 20261109204108,
-  "file": "VisionBot_Setup_v0.2.0_20261109_2042.exe",
+  "file": "VisionBot_Setup_v0.2.0_20261109_2100.exe",
   "force": false,
   "min_code": 0,
-  "notes": "云更新改为 GitHub 托管；鹿王完整链路（逐只/三只同时清、20 变身、清完必捡物退本）；每账号独立次数；每实例回城回血；喝药 1/2/3 独立冷却；EXE 安装器与一键卸载。",
+  "notes": "云更新改为 GitHub 托管；鹿王完整链路（逐只/三只同时清、20 变身、清完必捡物退本）；每账号独立次数；每实例回城回血；喝药 1/2/3 独立冷却；EXE 安装器与一键卸载；老用户升级自动迁移 Gitee 旧清单地址。",
   "schema": 1,
-  "sha256": "a3c67568cc61569d0595035416046a339e495f124ba716c3f8d8819147753ce3",
-  "sig": "07B2442D9CFE11C34C3F065F15E7DC503A43DE966BF990AE219F5CE092B382B3CB060617B64AC01FBE7E5D1A76D3D7FDA0FC715338E159DDCD3C4C165057233A290717D71827FBE504D6FDE11DBBC4BDA785325109C9A53681BC7CE913C3F56BDBA2665B426767F2FDF70FDDA2962D1890C62BE44706BF7387F9AF55C96A030EA1BD27FFD6BFB6454D518F6FEB081BDF6494B80D748D144F824D1A8CD482FCEFC36B0EE1981A93458BFACE9998449E650FFA793AB0760518BD9448DC5549A72E792E6405555851B49316FFBC22F688C266214E712E2D9616421A5832AF0DD94F2AFB571C3F372E56BA4A7CB2D8E89883603119E30B4E0B4A2CE273004BCC40E4",
-  "size": 90927040,
+  "sha256": "2a80ff2c869843afb14b4b6ba1fe4e4bd83de41f8774d8dd547cd4918a5bedfd",
+  "sig": "0A260C709DA244682564056BFA9DED22A48AD1D712E4D77F5C9C665C82CCD39125060B25047BB62190C856B16389F6681C2EEE464F6DF975438C4B97002EE547A4E7C610C2FD705AB14AF9921A667C69E07516E4776B25AF49E215BF658F7C6D4BACAA80AE564D1D06488F615A31D0A11116306D7FB3424E076711E239523FA1737A7BE1AE16F682D13849A6E2B39B90ADA89D358BEBFE0FFD88E7BA7BB7927087CED368178FAFA946E61622315C3500C8D6F22D3D7EFFDF05CEB804256B75B5655DE80E76BF0401305CA600C38D821D8A15508B49AB954A3AEFC0A5540E2F69F16E7A8830A294108872F2A921DD17D5932858AF2F704AF0C3B2F0B9116406CE",
+  "size": 90929075,
   "urls": [
-    "https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe",
-    "https://ghfast.top/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe",
-    "https://gh-proxy.com/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe",
-    "https://ghproxy.net/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe"
+    "https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2100.exe",
+    "https://ghfast.top/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2100.exe",
+    "https://gh-proxy.com/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2100.exe",
+    "https://ghproxy.net/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2100.exe"
   ],
   "version": "0.2.0"
 }
