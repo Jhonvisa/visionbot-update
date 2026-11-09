@@ -1,0 +1,19 @@
+{
+  "built": "2026-11-09 20:41:08",
+  "code": 20261109204108,
+  "file": "VisionBot_Setup_v0.2.0_20261109_2042.exe",
+  "force": false,
+  "min_code": 0,
+  "notes": "云更新改为 GitHub 托管；鹿王完整链路（逐只/三只同时清、20 变身、清完必捡物退本）；每账号独立次数；每实例回城回血；喝药 1/2/3 独立冷却；EXE 安装器与一键卸载。",
+  "schema": 1,
+  "sha256": "a3c67568cc61569d0595035416046a339e495f124ba716c3f8d8819147753ce3",
+  "sig": "07B2442D9CFE11C34C3F065F15E7DC503A43DE966BF990AE219F5CE092B382B3CB060617B64AC01FBE7E5D1A76D3D7FDA0FC715338E159DDCD3C4C165057233A290717D71827FBE504D6FDE11DBBC4BDA785325109C9A53681BC7CE913C3F56BDBA2665B426767F2FDF70FDDA2962D1890C62BE44706BF7387F9AF55C96A030EA1BD27FFD6BFB6454D518F6FEB081BDF6494B80D748D144F824D1A8CD482FCEFC36B0EE1981A93458BFACE9998449E650FFA793AB0760518BD9448DC5549A72E792E6405555851B49316FFBC22F688C266214E712E2D9616421A5832AF0DD94F2AFB571C3F372E56BA4A7CB2D8E89883603119E30B4E0B4A2CE273004BCC40E4",
+  "size": 90927040,
+  "urls": [
+    "https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe",
+    "https://ghfast.top/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe",
+    "https://gh-proxy.com/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe",
+    "https://ghproxy.net/https://github.com/Jhonvisa/visionbot-update/releases/download/v0.2.0/VisionBot_Setup_v0.2.0_20261109_2042.exe"
+  ],
+  "version": "0.2.0"
+}
